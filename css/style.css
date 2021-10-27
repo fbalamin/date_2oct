@@ -1,0 +1,9 @@
+body{
+	background: #b1ffff;
+}
+h1{
+	text-align: center;
+}
+.bg_img{
+	background-image: url(../images/bg.jpg);
+}
